@@ -43,6 +43,8 @@ public class AssignmentOne {
 
         System.out.println("------------------------------");
     }
+
+
      /**
      * Create appointment: add to list only if all info is valid
      * Supports polymorphism (accepts any HealthProfessional subclass: GP/Cardiologist)
